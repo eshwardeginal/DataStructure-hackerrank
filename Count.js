@@ -8,6 +8,7 @@
 // Output: 4
 // Explanation: The number 7789 has 4 digits.
 
+//Approch 1
 function CountDigits(number){
     let count=0;
     let num=number
